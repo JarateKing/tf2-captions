@@ -1,0 +1,31 @@
+"lang"
+{
+	"Language"	"custom"
+	"Tokens"
+	{
+
+		//      ______         __
+		//      | ___ \       / _|
+		//      | |_/ /  ___ | |_   ___  _ __   ___  _ __    ___   ___  ___
+		//      |    /  / _ \|  _| / _ \| '__| / _ \| '_ \  / __| / _ \/ __|
+		//      | |\ \ |  __/| |  |  __/| |   |  __/| | | || (__ |  __/\__ \
+		//      \_| \_| \___||_|   \___||_|    \___||_| |_| \___| \___||___/
+
+		// 		It is possible to modify your messages with tags.
+		//		They allow you to display your messages in bold, italic, color, with a delay, etc.
+		//		Here is a comprehensive overview below.
+
+		//		Bold		-	<B>
+		//		Italic		-	<I>
+		//		Color		-	<clr:R,G,B> where R, G, and B are 0 - 255.
+		//		Delay		-	<delay:X> where X is the time in seconds.
+		//		Newline		-	<cr>
+
+		//		To create a new caption, use the following format:
+		//		"#Name.Here"		"Your <B>output<B> to be displayed here."
+
+		//		To invoke the caption in your scripts, simply run:
+		//		cc_emit #Name.Here
+
+	}
+}
