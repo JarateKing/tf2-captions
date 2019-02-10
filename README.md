@@ -7,6 +7,10 @@ Please note that this project does not contain any pre-made captions and should 
 
 <br>
 
+![screenshot](https://i.imgur.com/s9n68T9.png)
+
+<br>
+
 **Content of the repository:**
 
 <details>
