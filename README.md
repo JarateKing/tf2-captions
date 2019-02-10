@@ -24,3 +24,8 @@ Please note that this project does not contain any pre-made captions and should 
 **More information:**
 
 To consult more in-depth information, please refer to the [wiki](https://github.com/byparallax/tf2-captions/wiki "Consult the wiki for more information.").
+
+<br>
+
+<p align="center"><a href="https://t.me/byparallax"><img src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?style=flat-square&logo=telegram&link=https://t.me/byparallax" title="Telegram | @byParallax"/></a>    <a href="https://steamcommunity.com/id/byPlx"><img src="https://img.shields.io/badge/-Steam%20Profile-171A21.svg?style=flat-square&logo=steam&link=https://steamcommunity.com/id/byPlx" title="Steam | /byPlx"/></a></p>
+
