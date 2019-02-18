@@ -1,5 +1,7 @@
-:: This is a kinda messy .bat script to compile your custom captions.
-:: Make sure to update the path if needed.
+@echo off
+
+:: shortcut to captioncompile.exe
+:: will attempt to turn source closecaption_custom.txt into a .dat file
 
 :: either use closecaption_custom.txt, or drag-and-drop the file into compile.bat
 SET "closecaption_txt=%cd%\closecaption_custom.txt"
