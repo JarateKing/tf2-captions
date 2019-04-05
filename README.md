@@ -27,7 +27,11 @@ Please note that this project does not contain any pre-made captions and should 
 
 **More information:**
 
-To consult more in-depth information, please refer to the [**wiki**](https://github.com/byparallax/tf2-captions/wiki "Consult the wiki for more information.").
+~~To consult more in-depth information, please refer to the [**wiki**](https://github.com/byparallax/tf2-captions/wiki "Consult the wiki for more information.").~~
+
+Consult clovervidia's work for more:
+* https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
+* https://www.reddit.com/r/tf2scripthelp/wiki/captions
 
 <br>
 
